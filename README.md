@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cony03&show_icons=true&locale=en&layout=compact" alt="cony03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cony03&show_icons=true&locale=en" alt="cony03" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=cony03&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=cony03&theme=dark&hide_border=true&include_all_commits=true&count_private=true)" alt="cony03" /></p>
