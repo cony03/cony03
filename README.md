@@ -1,5 +1,6 @@
+Hi, I'm appasionate developer from Italy
+
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=cony03&icon=5&color=12" alt="cony03" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cony03" alt="cony03" /></a> </p>
 
 - 🔭 I’m currently working on **Timeline RP**
 
