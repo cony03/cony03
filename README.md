@@ -1,4 +1,4 @@
-Hi, I'm appasionate developer from Italy
+<h2 align="left"> Hi, I'm appasionate developer from Italy</h2>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=cony03&icon=5&color=12" alt="cony03" /> </p>
 
