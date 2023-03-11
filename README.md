@@ -1,3 +1,4 @@
+<div style="background-color: black;">
 <h1 align="center">Hi 👋, I'm Samuele</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
@@ -17,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cony03&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="cony03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cony03&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="cony03" /></p>
+</div>
