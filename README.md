@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **cony1407** on Discord
 
+- 🧃 19 y.o.
+
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp" />
