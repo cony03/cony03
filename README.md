@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Personal Project**<!---**Timeline RP** ( https://discord.gg/65bRbUvzQC ) -->
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **web development things**
 
-- 📫 How to reach me **@cony#3393** on Discord
+- 📫 How to reach me **cony1407** on Discord
 
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
