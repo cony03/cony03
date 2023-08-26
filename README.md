@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="[https://skillicons.dev/icons?i=js,html,css,lua](https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp)" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp" />
 </a>
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" rel="nofollow"> 
