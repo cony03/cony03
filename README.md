@@ -9,10 +9,8 @@
 - 📫 How to reach me **@cony#3393** on Discord
 
 <h3 align="left">Languages:</h3>
-<a href="https://www.w3big.com/lua/default.html#gsc.tab=0" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> 
-</a>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,lua" />
+  <img src="[https://skillicons.dev/icons?i=js,html,css,lua](https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp)" />
 </a>
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" rel="nofollow"> 
