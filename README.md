@@ -9,7 +9,7 @@
 - 📫 How to reach me **@cony#3393** on Discord
 
 <h3 align="left">Languages:</h3>
-<a href="https://skillicons.dev">
+<a>
   <img src="[https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp](https://skillicons.dev/icons?i=lua,html,css,js,mysql,ts,cpp)" />
 </a>
 <h3 align="left">Tools:</h3>
