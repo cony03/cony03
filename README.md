@@ -1,6 +1,6 @@
 <h2 align="left"> Hi, I'm appasionate developer from Italy</h2>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=cony03&icon=5&color=12" alt="cony03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cony03&color=000000&style=for-the-badge" alt="cony03" /> </p>
 
 - 🔭 I’m currently working on **Personal Project**<!---**Timeline RP** ( https://discord.gg/65bRbUvzQC ) -->
 
